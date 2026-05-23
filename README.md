@@ -15,7 +15,8 @@
 
 <img align="left" src="assets\cerebroCUT.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;" />
 
-<p>Software Engineer e Estudante de Inteligência Artificial focado em construir sistêmas escaláveis e eurísticos para melhor response, tempo de vida e manutenabilidade. Acredito na potência das automações e no mapeamento de claro de um problema, pois, um algorítimo bem feito na grande maíoria das vezes é um algorítimo bem pensado. Sobre Stacks tenho ótimo conhecimento nas principais do mercado e sou capacitado para me adaptar a qualquer paradigma desconhecido e construir algo a partir somente da documentação.</p>
+<p>Software Engineer e estudante de Inteligência Artificial, focado em construir sistemas escaláveis e heurísticos para melhorar performance, tempo de vida e manutenabilidade. Acredito no poder das automações e no mapeamento claro de um problema, pois um algoritmo bem feito, na grande maioria das vezes, é um algoritmo bem pensado. Em relação às stacks, tenho ótimo conhecimento das principais tecnologias do mercado e sou capacitado para me adaptar a qualquer paradigma desconhecido, construindo soluções a partir apenas da documentação.
+</p>
 
 <p style="margin-bottom: 6px; white-space: nowrap;">
     <strong>O que eu resolvo?</strong> Problemas.
