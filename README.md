@@ -1,10 +1,14 @@
+﻿<p align="center">
+  <img src="assets/Background/background.png" alt="Banner" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/SELF-DRIVEN-orange?style=for-the-badge&logoColor=white&color=black" alt="Auto-driven" />
   <img src="https://img.shields.io/badge/LOC-CEARÁ-blue?style=for-the-badge&color=black" alt="Localização" />
   <img src="https://img.shields.io/badge/STACK-FULLSTACK-9cf?style=for-the-badge&logoColor=white&color=black" alt="Fullstack" />
   <!-- Logo que representa IA (OpenAI Symbol) -->
   <img src="https://img.shields.io/badge/AI-ENGINEERING-white?style=for-the-badge&logo=googlegemini&logoColor=white&color=black" alt="IA" />
-  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-critical?style=for-the-badge&logo=robotframework&logoColor=white&color=black" alt="Automação" />
+  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION R&D-critical?style=for-the-badge&logo=robotframework&logoColor=white&color=black" alt="Automação R&D" />
 </p>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
