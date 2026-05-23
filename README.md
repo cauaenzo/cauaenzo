@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/SELF-DRIVEN-orange?style=for-the-badge&logoColor=white&color=black" alt="Auto-driven" />
+  <img src="https://img.shields.io/badge/LOC-CEARÁ-blue?style=for-the-badge&color=black" alt="Localização" />
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK-9cf?style=for-the-badge&logoColor=white&color=black" alt="Fullstack" />
+  <!-- Logo que representa IA (OpenAI Symbol) -->
+  <img src="https://img.shields.io/badge/AI-ENGINEERING-white?style=for-the-badge&logo=googlegemini&logoColor=white&color=black" alt="IA" />
+  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-critical?style=for-the-badge&logo=robotframework&logoColor=white&color=black" alt="Automação" />
+</p>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
 
-<img align="left" src="assets\cerebroCUT.png" alt="Ilustração em halftone de um cérebro" width="380" style="margin-right: 20px; margin-bottom: 8px;" />
+<img align="left" src="assets\cerebroCUT.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;" />
 
-<p>Estudante de ADS focado em construir sistemas práticos e automações.
-Gosto de transformar processos manuais ou repetitivos em fluxos eficientes, 
-explorando ferramentas e tecnologias como Python, Node.js e Linux.
-Atualmente estudando e experimentando com workflows de dados, sistemas backend 
-e resolução de problemas reais através de projetos.</p>
+<p>Software Engineer e Estudante de Inteligência Artificial focado em construir sistêmas escaláveis e eurísticos para melhor response, tempo de vida e manutenabilidade. Acredito na potência das automações e no mapeamento de claro de um problema, pois, um algorítimo bem feito na grande maíoria das vezes é um algorítimo bem pensado. Sobre Stacks tenho ótimo conhecimento nas principais do mercado e sou capacitado para me adaptar a qualquer paradigma desconhecido e construir algo a partir somente da documentação.</p>
 
-<p><strong>Como penso sobre rotina:</strong> se algo leva mais de ~10 minutos por dia e sempre é do mesmo jeito, prefiro investir uma vez em script, bot ou pipeline e deixar a máquina cuidar do resto.</p>
+<p style="margin-bottom: 6px; white-space: nowrap;">
+    <strong>O que eu resolvo?</strong> Problemas.
+</p>
 
 
 
